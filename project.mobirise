@@ -3660,9 +3660,9 @@
         }
       ]
     },
-    "page6.html": {
+    "News.html": {
       "settings": {
-        "meta_descr": "Site Maker Description",
+        "meta_descr": "EMUSC In News Articles",
         "title": "EMU Smash Club In News",
         "order": 1
       },
